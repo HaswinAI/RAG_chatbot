@@ -1,7 +1,7 @@
-#📚 RAG Chatbot – PDF Q&A with LangChain + Groq
-#A Retrieval-Augmented Generation (RAG) chatbot that answers questions from uploaded PDFs. Built using LangChain, Groq LLMs (LLaMA 3), FAISS, HuggingFace Embeddings, and Streamlit.
+# 📚 RAG Chatbot – PDF Q&A with LangChain + Groq
+# A Retrieval-Augmented Generation (RAG) chatbot that answers questions from uploaded PDFs. Built using LangChain, Groq LLMs (LLaMA 3), FAISS, HuggingFace Embeddings, and Streamlit.
 
-🧠 What This Project Does
+# 🧠 What This Project Does
 🗂 Uploads a PDF document
 
 📖 Reads and chunks the content into manageable parts
@@ -16,7 +16,7 @@
 
 💬 Displays accurate, document-based responses in real-time
 
-🔁 Workflow
+# 🔁 Workflow
 
 PDF Upload
  → Text Extraction
@@ -52,7 +52,7 @@ rag-chatbot/
 Clone this repo:
 
 
-git clone https://github.com/yourusername/rag-chatbot-groq.git
+git clone https://github.com/HaswinAI/RAG-chatbot.git
 cd rag-chatbot-groq
 Create a virtual environment:
 
@@ -70,7 +70,7 @@ GROQ_API_KEY=your_actual_groq_key_here
 ▶️ Run the App
 
 streamlit run app.py
-Go to http://localhost:8501 in your browser.
+Go to localhost in your browser.
 
 💬 Example Use
 Upload a whitepaper or article PDF
@@ -107,3 +107,5 @@ FAISS by Meta
 HuggingFace Sentence Transformers
 
 Streamlit
+
+# Creator - HASWIN
