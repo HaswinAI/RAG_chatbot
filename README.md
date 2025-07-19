@@ -1,5 +1,5 @@
-📚 RAG Chatbot – PDF Q&A with LangChain + Groq
-A Retrieval-Augmented Generation (RAG) chatbot that answers questions from uploaded PDFs. Built using LangChain, Groq LLMs (LLaMA 3), FAISS, HuggingFace Embeddings, and Streamlit.
+#📚 RAG Chatbot – PDF Q&A with LangChain + Groq
+#A Retrieval-Augmented Generation (RAG) chatbot that answers questions from uploaded PDFs. Built using LangChain, Groq LLMs (LLaMA 3), FAISS, HuggingFace Embeddings, and Streamlit.
 
 🧠 What This Project Does
 🗂 Uploads a PDF document
